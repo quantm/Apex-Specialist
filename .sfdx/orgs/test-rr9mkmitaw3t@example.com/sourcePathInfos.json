@@ -36,10 +36,10 @@
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 136,
-            "modifiedTime": 1534012882000,
-            "changeTime": 1534012882000,
-            "contentHash": "1f553b977a7f506c546c4b3ed1fcfd9091744dfc"
+            "size": 170,
+            "modifiedTime": 1534013793000,
+            "changeTime": 1534013793000,
+            "contentHash": "c8fa3201413800e6ceb22f3de75cef09ce75f490"
         }
     ],
     [
@@ -75,118 +75,183 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Product-en_US/Product-en_US.objectTranslation-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Product-en_US/Product-en_US.objectTranslation-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 373,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "0d6de0edc58f97ae4f5a876a22746b24de5c8741"
+            "contentHash": "0d6de0edc58f97ae4f5a876a22746b24de5c8741",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Case-en_US.objectTranslation-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Case-en_US.objectTranslation-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 993,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "9f6bfc7b21c5964959cb17a2ba99b80c6caafe58"
+            "contentHash": "9f6bfc7b21c5964959cb17a2ba99b80c6caafe58",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Date_Due__c.fieldTranslation-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Date_Due__c.fieldTranslation-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "c76dd0b978ec8976db4c028d3009bb4fc86702e2"
+            "contentHash": "c76dd0b978ec8976db4c028d3009bb4fc86702e2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Date_Reported__c.fieldTranslation-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Date_Reported__c.fieldTranslation-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 214,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "4bae36bf178afba05afe1db25769698eab333ba4"
+            "contentHash": "4bae36bf178afba05afe1db25769698eab333ba4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Equipment__c.fieldTranslation-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Equipment__c.fieldTranslation-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 279,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "6a4328b8692194c13a687c1d3bb2de51586a4b04"
+            "contentHash": "6a4328b8692194c13a687c1d3bb2de51586a4b04",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Vehicle__c.fieldTranslation-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Vehicle__c.fieldTranslation-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 260,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "86cb628bb0d6dc66468000f361dde2e77ad86691"
+            "contentHash": "86cb628bb0d6dc66468000f361dde2e77ad86691",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Product-en_US",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Product-en_US",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "8eebf6c054d27a0d7add68abdec862ac36a3d6ef"
+            "contentHash": "8eebf6c054d27a0d7add68abdec862ac36a3d6ef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "8d5a1e241af3fa7d388f8a614c78fd5fdd5b6307"
+            "contentHash": "8d5a1e241af3fa7d388f8a614c78fd5fdd5b6307",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1534012882000,
             "changeTime": 1534012882000,
-            "contentHash": "f60addb36ce21e800d1a2dc20f446e19bc96a45b"
+            "contentHash": "f60addb36ce21e800d1a2dc20f446e19bc96a45b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4206,
+            "modifiedTime": 1534013793000,
+            "changeTime": 1534013793000,
+            "contentHash": "01be03bc811c25d7d4e92c4c5350acb07e86e46d"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4544,
+            "modifiedTime": 1534013793000,
+            "changeTime": 1534013793000,
+            "contentHash": "50887344d7dfce2130b7c74e1d001c937618714d"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4206,
+            "modifiedTime": 1534013793000,
+            "changeTime": 1534013793000,
+            "contentHash": "01be03bc811c25d7d4e92c4c5350acb07e86e46d"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17623,
+            "modifiedTime": 1534013793000,
+            "changeTime": 1534013793000,
+            "contentHash": "a454ec46f1d61f644051200d010c87567200988b"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1534013793000,
+            "changeTime": 1534013793000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
