@@ -1,0 +1,192 @@
+[
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1534009147000,
+            "changeTime": 1534009147000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1534009147000,
+            "changeTime": 1534009147000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "1f553b977a7f506c546c4b3ed1fcfd9091744dfc"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1534009147000,
+            "changeTime": 1534009147000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist",
+            "isDirectory": true,
+            "size": 374,
+            "modifiedTime": 1534009748000,
+            "changeTime": 1534009748000,
+            "contentHash": "807b7aaa92451ec641bfc0e0a5d2bf0e1e9005a1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Product-en_US/Product-en_US.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Product-en_US/Product-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "0d6de0edc58f97ae4f5a876a22746b24de5c8741"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Case-en_US.objectTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Case-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 993,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "9f6bfc7b21c5964959cb17a2ba99b80c6caafe58"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Date_Due__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Date_Due__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "c76dd0b978ec8976db4c028d3009bb4fc86702e2"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Date_Reported__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Date_Reported__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 214,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "4bae36bf178afba05afe1db25769698eab333ba4"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Equipment__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Equipment__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 279,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "6a4328b8692194c13a687c1d3bb2de51586a4b04"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Vehicle__c.fieldTranslation-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US/Vehicle__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 260,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "86cb628bb0d6dc66468000f361dde2e77ad86691"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Product-en_US",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Product-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "8eebf6c054d27a0d7add68abdec862ac36a3d6ef"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "8d5a1e241af3fa7d388f8a614c78fd5fdd5b6307"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objectTranslations/Case-en_US",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1534012882000,
+            "changeTime": 1534012882000,
+            "contentHash": "f60addb36ce21e800d1a2dc20f446e19bc96a45b"
+        }
+    ]
+]
