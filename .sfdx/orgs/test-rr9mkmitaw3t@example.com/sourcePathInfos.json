@@ -32,14 +32,14 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1534060778000,
             "changeTime": 1534060778000,
-            "contentHash": "ffd919a2b537ace8977469305ee49afc22340f23"
+            "contentHash": "ffd919a2b537ace8977469305ee49afc22340f23",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -176,53 +176,53 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4573,
             "modifiedTime": 1534060778000,
             "changeTime": 1534060778000,
-            "contentHash": "03a693cc809303ed3cea0115779aff7cad3df4d5"
+            "contentHash": "03a693cc809303ed3cea0115779aff7cad3df4d5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4911,
             "modifiedTime": 1534060779000,
             "changeTime": 1534060779000,
-            "contentHash": "9e32a7945498b9b68082841edd0ee18518109a4c"
+            "contentHash": "9e32a7945498b9b68082841edd0ee18518109a4c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4573,
             "modifiedTime": 1534060779000,
             "changeTime": 1534060779000,
-            "contentHash": "03a693cc809303ed3cea0115779aff7cad3df4d5"
+            "contentHash": "03a693cc809303ed3cea0115779aff7cad3df4d5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17990,
             "modifiedTime": 1534060779000,
             "changeTime": 1534060779000,
-            "contentHash": "32aad713a18b86493de76d4f3979c2fd0b19fb28"
+            "contentHash": "32aad713a18b86493de76d4f3979c2fd0b19fb28",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -254,14 +254,14 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/MaintenanceRequestHelper.cls",
         {
+            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/MaintenanceRequestHelper.cls",
             "isDirectory": false,
-            "size": 780,
-            "modifiedTime": 1534059203000,
-            "changeTime": 1534059203000,
-            "contentHash": "892b90ada825650032f6b8a89b5ddb6cc872ce8d",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 3772,
+            "modifiedTime": 1534062795000,
+            "changeTime": 1534062795000,
+            "contentHash": "1b9359c19777811589c08e1a01cb0834640348a5"
         }
     ],
     [
@@ -293,14 +293,14 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/triggers/MaintenanceRequest.trigger",
         {
+            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/triggers/MaintenanceRequest.trigger",
             "isDirectory": false,
-            "size": 200,
-            "modifiedTime": 1534056485000,
-            "changeTime": 1534056485000,
-            "contentHash": "f9e2ce7b971f9f544caeb214f85491645aafb41b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 185,
+            "modifiedTime": 1534062814000,
+            "changeTime": 1534062814000,
+            "contentHash": "502a23ec5a0c42e2f7e4ad797bc232e349fcd705"
         }
     ],
     [
@@ -345,40 +345,40 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/tabs/Work_Part__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/tabs/Work_Part__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1534060778000,
             "changeTime": 1534060778000,
-            "contentHash": "dc830859dc207059215c9d10e06fe4ffc8757cc4"
+            "contentHash": "dc830859dc207059215c9d10e06fe4ffc8757cc4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/tabs/Vehicle__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/tabs/Vehicle__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 220,
             "modifiedTime": 1534060778000,
             "changeTime": 1534060778000,
-            "contentHash": "d9121f0672c5560916f74000926d48c9b89477a2"
+            "contentHash": "d9121f0672c5560916f74000926d48c9b89477a2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1534060778000,
             "changeTime": 1534060778000,
-            "contentHash": "8eb4ff610641be98f935852673f7871deb45b044"
+            "contentHash": "8eb4ff610641be98f935852673f7871deb45b044",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
