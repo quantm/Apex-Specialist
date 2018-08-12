@@ -1,0 +1,9 @@
+# Ignore hidden folders by default
+.*
+
+# But don't ignore certain config files
+!/.gitignore
+
+# Folders used by plugins and IDE
+!.vscode/
+.vscode/settings.json
