@@ -7,3 +7,6 @@
 # Folders used by plugins and IDE
 !.vscode/
 .vscode/settings.json
+
+# Converted MDAPI source
+mdapiout/
