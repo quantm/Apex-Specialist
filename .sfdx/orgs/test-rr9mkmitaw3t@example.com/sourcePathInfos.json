@@ -32,14 +32,14 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1534069939000,
-            "changeTime": 1534069939000,
-            "contentHash": "9bf14b6d55bd8503371685f163edc91390d52b59",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 340,
+            "modifiedTime": 1534071493000,
+            "changeTime": 1534071493000,
+            "contentHash": "d55a73b1f079d6e195649481ec1af7812f2f310f"
         }
     ],
     [
@@ -267,14 +267,14 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes",
             "isDirectory": true,
+            "size": 476,
+            "modifiedTime": 1534070579000,
+            "changeTime": 1534070579000,
+            "contentHash": "33972cce465534a52d2b49630d4695ad890751ad",
             "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1534070064000,
-            "changeTime": 1534070064000,
-            "contentHash": "cf1c12afdbf5001b5fb7118d821b706a57471aac"
+            "state": "u"
         }
     ],
     [
@@ -436,27 +436,157 @@
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseSyncSchedule.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseSyncSchedule.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 178,
             "modifiedTime": 1534070076000,
             "changeTime": 1534070076000,
-            "contentHash": "b1d6f0ac63d7b0572f80b7cc3c1e7b148fd2099a"
+            "contentHash": "b1d6f0ac63d7b0572f80b7cc3c1e7b148fd2099a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseSyncSchedule.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseSyncSchedule.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1534070064000,
             "changeTime": 1534070064000,
-            "contentHash": "760eeacc88d4419e0928c1f452e6c1e361f99125"
+            "contentHash": "760eeacc88d4419e0928c1f452e6c1e361f99125",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/InstallationTests.cls",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/InstallationTests.cls",
+            "isDirectory": false,
+            "size": 6048,
+            "modifiedTime": 1534070516000,
+            "changeTime": 1534070516000,
+            "contentHash": "6643f26027cb8de5f82f299a92574784467f1f10",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/InstallationTests.cls-meta.xml",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/InstallationTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1534070494000,
+            "changeTime": 1534070494000,
+            "contentHash": "9e23ecc78ad581438af2032c8c369b5ea3af02a5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseCalloutServiceMock.cls",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseCalloutServiceMock.cls",
+            "isDirectory": false,
+            "size": 757,
+            "modifiedTime": 1534070587000,
+            "changeTime": 1534070587000,
+            "contentHash": "b92941c2ba020ab6c043d38df23ceac20781860b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseCalloutServiceMock.cls-meta.xml",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseCalloutServiceMock.cls-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1534070579000,
+            "changeTime": 1534070579000,
+            "contentHash": "a0a7653afe7f4d91f193eb9da09a9d8cec6e8501",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseCalloutServiceTest.cls",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseCalloutServiceTest.cls",
+            "isDirectory": false,
+            "size": 1433,
+            "modifiedTime": 1534070556000,
+            "changeTime": 1534070556000,
+            "contentHash": "ee1fd7608e48f519d2429a15d9a30fc812ec335f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseCalloutServiceTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/classes/WarehouseCalloutServiceTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1534070549000,
+            "changeTime": 1534070549000,
+            "contentHash": "db5023e3d6330151472023761d6b192f843b247e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objects/Work_Part__c/fields/Maintenance_Request__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objects/Work_Part__c/fields/Maintenance_Request__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 658,
+            "modifiedTime": 1534071493000,
+            "changeTime": 1534071493000,
+            "contentHash": "d281b671dfcc7005b9942a2756ed0e7c0466e01a"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objects/Work_Part__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objects/Work_Part__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1534071493000,
+            "changeTime": 1534071493000,
+            "contentHash": "9a6fadafeba8cb4085a4f7734548a042754e57d4"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objects/Work_Part__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objects/Work_Part__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1534071493000,
+            "changeTime": 1534071493000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/appirio-13524/Documents/Trailhead/Apex Specialist/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1534071493000,
+            "changeTime": 1534071493000,
+            "contentHash": "acfdd6183737b06548bd608f51942a7d8790b72b"
         }
     ]
 ]
